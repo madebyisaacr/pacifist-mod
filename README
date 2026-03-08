@@ -1,6 +1,8 @@
 # Pacifist Mod
 
-A Minecraft mod that makes wind charges not open trapdoors, flip levers, press buttons, etc.
+A Minecraft Java edition mod that makes wind charges not open trapdoors, flip levers, press buttons, etc.
+
+This mod is experimental.
 
 Planned future updates:
 * Make TNT, TNT minecarts, and end crystals explode without destroying blocks.
