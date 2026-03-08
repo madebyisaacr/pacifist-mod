@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.pacifistmod.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"WindChargeMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
