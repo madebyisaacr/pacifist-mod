@@ -3,7 +3,8 @@
 	"package": "com.pacifistmod.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"WindChargeMixin"
+		"WindChargeMixin",
+		"PrimedTntMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
