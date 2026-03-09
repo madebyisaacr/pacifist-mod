@@ -5,7 +5,8 @@
 	"mixins": [
 		"WindChargeMixin",
 		"PrimedTntMixin",
-		"MinecartTNTMixin"
+		"MinecartTNTMixin",
+		"EndCrystalMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
